@@ -447,11 +447,12 @@ form {
     border-radius: .35rem;
     border: 1px solid #555566;
     align-self: center;
+    margin-bottom:1em;
 }
 
 .footer-h3 {
     margin-top:-1em;
     font-size:2.2em;
     font-weight: 300;
-    margin-bottom:0em;
+    margin-bottom:-.5em;
 }
